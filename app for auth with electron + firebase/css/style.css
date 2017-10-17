@@ -1,0 +1,19 @@
+body {
+	margin:0 ;
+	overflow-x: hidden;
+}
+
+
+button {
+	background: #0be00b;
+	background: radial-gradient(farthest-corner at 50% 100%, #00df00, #009800);
+	background: -webkit-radial-gradient(50% 100%, cover, #00df00, #009800);
+	color: #FFF;
+	width: 170px;
+	height: 23px;
+	border-radius: 20px;
+	border: 1px solid #099609;
+	position: relative;
+	z-index: 1;
+}
+
